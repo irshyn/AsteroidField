@@ -9,8 +9,14 @@ Asteroids move downwards at different angles and speeds.
 Every 15 seconds a new asteroid is added to the screen making the game more challenging.
 To quit the game, the player should press Esc button.
 
-The features include: collision detection between game objects, simple animation, sound effects and music,
-fully functional menu system navigated by keyboard and mouse, high score system, game saving and loading options, and a one-click installer.
+## Features: 
+- collision detection between game objects
+- simple animation
+- sound effects and music
+- fully functional menu system navigated by keyboard and mouse
+- high score system
+- game saving and loading options
+- one-click installer.
 
 ## Sound credit
 
