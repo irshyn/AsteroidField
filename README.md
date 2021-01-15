@@ -22,3 +22,7 @@ To quit the game, the player should press Esc button.
 
 Goes to [here](https://soundimage.org/sci-fi/), [here](https://www.freesoundeffects.com/free-sounds/explosion-10070/),
 [here](https://freesound.org/people/myfox14/sounds/382310/) and [here](https://freesound.org/people/D%20W/sounds/140382/).
+
+## Game screenshot
+
+<img src="https://imgur.com/V4Cqqfz.gif" width="300">
